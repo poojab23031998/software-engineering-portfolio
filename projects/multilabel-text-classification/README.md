@@ -1,8 +1,5 @@
 # Intelligent Multilabel Text Classification
 
-
-# Intelligent Multilabel Text Classification
-
 ## 1. Project Overview
 
 This project explores how machine learning can automatically assign multiple relevant labels to a text entry.
